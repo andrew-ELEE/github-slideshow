@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-![Github Image] (https://www.omgubuntu.co.uk/2018/06/microsoft-buying-github)
+![Welcome Image] (https://imgflip.com/i/hjjdh)
 Use the left arrow to go back!
